@@ -1,19 +1,15 @@
-### Hi there 👋
+# Gunji Kamiya
 
-<!--
-**GunjiKamiya/GunjiKamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat&logo=google-cloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+I'm a software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in the technology that makes up software and how to facilitate the development of products.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunjiKamiya&show_icons=true&count_private=true&theme=nord)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjiKamiya&layout=compact&theme=nord)
+[![](https://raw.githubusercontent.com/GunjiKamiya/GunjiKamiya/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
