@@ -12,4 +12,4 @@ I'm a software engineer.
 
 I am interested in the technology that makes up software and how to facilitate the development of products.
 
-[![](https://raw.githubusercontent.com/GunjiKamiya/GunjiKamiya/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GunjiKamiya/GunjiKamiya/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
